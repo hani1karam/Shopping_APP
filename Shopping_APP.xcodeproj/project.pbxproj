@@ -24,6 +24,7 @@
 		D7531B7E2460CC29000912F2 /* HomeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7531B7D2460CC29000912F2 /* HomeTableViewCell.swift */; };
 		D7531B812460CEF7000912F2 /* NetworkAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7531B802460CEF7000912F2 /* NetworkAPI.swift */; };
 		D7531B8624619C36000912F2 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7531B8524619C36000912F2 /* DetailsVC.swift */; };
+		D7531B882461F079000912F2 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7531B872461F079000912F2 /* File.swift */; };
 		D7A984192460A47400700AA0 /* RegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A984182460A47300700AA0 /* RegisterVC.swift */; };
 /* End PBXBuildFile section */
 
@@ -49,6 +50,7 @@
 		D7531B7D2460CC29000912F2 /* HomeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewCell.swift; sourceTree = "<group>"; };
 		D7531B802460CEF7000912F2 /* NetworkAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkAPI.swift; sourceTree = "<group>"; };
 		D7531B8524619C36000912F2 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
+		D7531B872461F079000912F2 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		D7A984182460A47300700AA0 /* RegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -99,6 +101,7 @@
 				D740231C24608AF900CF7DF3 /* LaunchScreen.storyboard */,
 				D740231F24608AF900CF7DF3 /* Info.plist */,
 				D740231724608AF600CF7DF3 /* Shopping_APP.xcdatamodeld */,
+				D7531B872461F079000912F2 /* File.swift */,
 				D740231A24608AF900CF7DF3 /* Assets.xcassets */,
 			);
 			path = Shopping_APP;
@@ -337,6 +340,7 @@
 				D740231124608AF600CF7DF3 /* SceneDelegate.swift in Sources */,
 				D7531B722460BCC3000912F2 /* LoginModel.swift in Sources */,
 				D7531B6F2460B76E000912F2 /* NetworkManagerUser.swift in Sources */,
+				D7531B882461F079000912F2 /* File.swift in Sources */,
 				D7531B7B2460CACA000912F2 /* HomeModel.swift in Sources */,
 				D7A984192460A47400700AA0 /* RegisterVC.swift in Sources */,
 				D7531B8624619C36000912F2 /* DetailsVC.swift in Sources */,
